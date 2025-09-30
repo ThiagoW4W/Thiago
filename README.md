@@ -11,16 +11,19 @@
 ## 🟡 Lenguajes y Herramientas
 ## Tecnologías
 
+## Tecnologías
+
 <p align="center">
-  <img src="assets/logos/html.svg" alt="HTML" width="40" />
-  <img src="assets/logos/css.svg" alt="CSS" width="40" />
-  <img src="assets/logos/javascript.svg" alt="JavaScript" width="40" />
-  <img src="assets/logos/react.svg" alt="React" width="40" />
-  <img src="assets/logos/nodejs.svg" alt="Node.js" width="40" />
-  <img src="assets/logos/php.svg" alt="PHP" width="40" />
-  <img src="assets/logos/python.svg" alt="Python" width="40" />
-  <img src="assets/logos/java.svg" alt="Java" width="40" />
-  <img src="assets/logos/mysql.svg" alt="MySQL" width="40" />
-  <img src="assets/logos/firebase.svg" alt="Firebase" width="40" />
-  <img src="assets/logos/docker.svg" alt="Docker" width="40" />
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="36" />
+  <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="36" />
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="36" />
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="36" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="36" />
+  <img src="https://cdn.simpleicons.org/php" alt="PHP" width="36" />
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="36" />
+  <img src="https://cdn.simpleicons.org/java" alt="Java" width="36" />
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="36" />
+  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="36" />
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="36" />
 </p>
+
