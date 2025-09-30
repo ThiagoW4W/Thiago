@@ -4,15 +4,12 @@
 ## 🟡 Proyectos   
 - [Turnero Mutual Policial](https://github.com/ThiagoW4W/Turnero-Mutual)
 - [App Móvil](https://github.com/ThiagoW4W/Turnero-Mutual)
-## 🟡 Educacion
+## 🟡 Educación
 - [EPET 20](https://epet20.edu.ar/ )
 - [ISSD](https://issd.edu.ar/es/desarrollo-software/)
 - Además realizo cursos abarcando otras áreas como Programación en PLC.
 ## 🟡 Lenguajes y Herramientas
 ## Tecnologías
-
-## Tecnologías
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="36" />
   <img src="https://cdn.simpleicons.org/css" alt="CSS3" width="36" />
