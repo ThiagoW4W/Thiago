@@ -1,2 +1,1 @@
-
-<img width="400" height="200" alt="Thiago Wagner" src="https://github.com/user-attachments/assets/1dc16f02-0def-4f78-8735-b21223667a48" />
+<img width="400" height="100" alt="Thiago Wagner (1)" src="https://github.com/user-attachments/assets/f0905bd3-dd81-4fe8-8bdc-a5675f243a19" />
