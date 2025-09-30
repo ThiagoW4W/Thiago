@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="36" />
-  <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="36" />
+  <img src="https://cdn.simpleicons.org/css" alt="CSS3" width="36" />
   <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="36" />
   <img src="https://cdn.simpleicons.org/react" alt="React" width="36" />
   <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="36" />
