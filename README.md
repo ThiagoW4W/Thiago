@@ -9,7 +9,7 @@
 - [ISSD](https://issd.edu.ar/es/desarrollo-software/)
 - Además realizo cursos abarcando otras áreas como Programación en PLC.
 ## 🟡 Contacto
-- [Email](thiagowagner231@gmail.com)
+- [Email](mailto:thiagowagner231@gmail.com)
 - [LinkedIn]( https://www.linkedin.com/in/thiago-wagner/)
 ## 🟡 Lenguajes y Herramientas
 <p align="center">
