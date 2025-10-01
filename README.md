@@ -8,6 +8,9 @@
 - [EPET 20](https://epet20.edu.ar/ )
 - [ISSD](https://issd.edu.ar/es/desarrollo-software/)
 - Además realizo cursos abarcando otras áreas como Programación en PLC.
+## 🟡 Contacto
+- [Email](thiagowagner231@gmail)
+- [LinkedIn]( https://www.linkedin.com/in/thiago-wagner/)
 ## 🟡 Lenguajes y Herramientas
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="36" />
